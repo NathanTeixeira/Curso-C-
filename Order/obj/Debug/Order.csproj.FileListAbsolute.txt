@@ -1,0 +1,7 @@
+N:\C#\Order\Order\bin\Debug\Order.exe.config
+N:\C#\Order\Order\bin\Debug\Order.exe
+N:\C#\Order\Order\bin\Debug\Order.pdb
+N:\C#\Order\Order\obj\Debug\Order.csproj.AssemblyReference.cache
+N:\C#\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+N:\C#\Order\Order\obj\Debug\Order.exe
+N:\C#\Order\Order\obj\Debug\Order.pdb
