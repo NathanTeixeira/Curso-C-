@@ -1,0 +1,7 @@
+N:\C#\ExercicioCursoCSharp\ExercicioCursoCSharp\bin\Debug\ExercicioCursoCSharp.exe.config
+N:\C#\ExercicioCursoCSharp\ExercicioCursoCSharp\bin\Debug\ExercicioCursoCSharp.exe
+N:\C#\ExercicioCursoCSharp\ExercicioCursoCSharp\bin\Debug\ExercicioCursoCSharp.pdb
+N:\C#\ExercicioCursoCSharp\ExercicioCursoCSharp\obj\Debug\ExercicioCursoCSharp.csproj.AssemblyReference.cache
+N:\C#\ExercicioCursoCSharp\ExercicioCursoCSharp\obj\Debug\ExercicioCursoCSharp.csproj.CoreCompileInputs.cache
+N:\C#\ExercicioCursoCSharp\ExercicioCursoCSharp\obj\Debug\ExercicioCursoCSharp.exe
+N:\C#\ExercicioCursoCSharp\ExercicioCursoCSharp\obj\Debug\ExercicioCursoCSharp.pdb
